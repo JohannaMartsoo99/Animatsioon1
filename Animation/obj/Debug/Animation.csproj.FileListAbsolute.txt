@@ -23,3 +23,32 @@
 /Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/bin/Debug/Mono.Android.pdb
 /Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/linksrc/Animation.pdb
 /Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/linksrc/Mono.Android.pdb
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Animation.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Animation.pdb
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Animation.Animation.apk
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Animation.Animation-Signed.apk
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Microsoft.AppCenter.Analytics.Android.Bindings.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Microsoft.AppCenter.Analytics.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Microsoft.AppCenter.Android.Bindings.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Microsoft.AppCenter.Crashes.Android.Bindings.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Microsoft.AppCenter.Crashes.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/bin/Debug/Microsoft.AppCenter.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/Animation.csprojResolveAssemblyReference.cache
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/Animation.csproj.CoreCompileInputs.cache
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/Animation.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/Animation.pdb
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/bin/Animation.Animation.apk
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/layout/main.xml
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/values/strings.xml
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/anim/animate_android.xml
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/drawable/j.png
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/drawable/jo.png
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/drawable/joh.png
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/drawable/joha.png
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/drawable/johan.png
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/drawable/johann.png
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/res/drawable/johanna.png
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/R.cs.flag
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/R.txt
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/uploadflags.txt
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/linksrc/Animation.pdb

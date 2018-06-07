@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <ManifestDocuments />
+  <ManifestDocuments>
+    <ManifestDocument>obj/Debug/lp/1/jl/AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj/Debug/lp/3/jl/AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj/Debug/lp/4/jl/AndroidManifest.xml</ManifestDocument>
+  </ManifestDocuments>
   <NativeLibraries />
-  <Jars />
+  <Jars>
+    <Jar>obj/Debug/lp/1/jl/bin/classes.jar</Jar>
+    <Jar>obj/Debug/lp/3/jl/bin/classes.jar</Jar>
+    <Jar>obj/Debug/lp/4/jl/bin/classes.jar</Jar>
+  </Jars>
 </Paths>

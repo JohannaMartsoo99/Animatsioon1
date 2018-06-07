@@ -1,26 +1,32 @@
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/Animation.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/Java.Interop.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/Mono.Android.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/mscorlib.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Core.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Xml.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Runtime.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.ComponentModel.Composition.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Diagnostics.Debug.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Threading.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Collections.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Collections.Concurrent.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Reflection.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Linq.Expressions.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Reflection.Primitives.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Dynamic.Runtime.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.ObjectModel.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Linq.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Runtime.InteropServices.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Runtime.Extensions.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Reflection.Extensions.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Net.Http.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.Runtime.Serialization.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/System.ServiceModel.Internals.dll
-/Users/johannamartsoo/Desktop/Nime animatsioon/Animation/Animation/obj/Debug/android/assets/Mono.Security.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Animation.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Java.Interop.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Microsoft.AppCenter.Analytics.Android.Bindings.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Microsoft.AppCenter.Analytics.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Microsoft.AppCenter.Android.Bindings.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Microsoft.AppCenter.Crashes.Android.Bindings.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Microsoft.AppCenter.Crashes.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Microsoft.AppCenter.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Mono.Android.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/mscorlib.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Core.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Xml.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Runtime.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Diagnostics.Debug.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Threading.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Collections.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Collections.Concurrent.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Reflection.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Linq.Expressions.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Reflection.Primitives.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Dynamic.Runtime.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.ObjectModel.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Linq.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Runtime.InteropServices.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Runtime.Extensions.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Reflection.Extensions.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Net.Http.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/johannamartsoo/Documents/GitHub/Animatsioon1/Animation/obj/Debug/android/assets/Mono.Security.dll
