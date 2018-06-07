@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+  <item android:drawable="@drawable/J"
+        android:duration="100" />
+  <item android:drawable="@drawable/Jo"
+        android:duration="100" />
+  <item android:drawable="@drawable/Joh"
+        android:duration="100" />
+  <item android:drawable="@drawable/Joha"
+        android:duration="100" />
+  <item android:drawable="@drawable/Johan"
+        android:duration="100" />
+  <item android:drawable="@drawable/Johann"
+      android:duration="100" />
+  <item android:drawable="@drawable/Johanna"
+      android:duration="100" />
+</animation-list>
